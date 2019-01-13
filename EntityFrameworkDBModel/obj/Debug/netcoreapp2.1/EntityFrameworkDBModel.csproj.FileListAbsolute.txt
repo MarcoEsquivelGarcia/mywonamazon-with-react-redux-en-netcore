@@ -1,0 +1,9 @@
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntityFrameworkDBModel\bin\Debug\netcoreapp2.1\EntityFrameworkDBModel.deps.json
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntityFrameworkDBModel\bin\Debug\netcoreapp2.1\EntityFrameworkDBModel.dll
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntityFrameworkDBModel\bin\Debug\netcoreapp2.1\EntityFrameworkDBModel.pdb
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntityFrameworkDBModel\obj\Debug\netcoreapp2.1\EntityFrameworkDBModel.csprojAssemblyReference.cache
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntityFrameworkDBModel\obj\Debug\netcoreapp2.1\EntityFrameworkDBModel.csproj.CoreCompileInputs.cache
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntityFrameworkDBModel\obj\Debug\netcoreapp2.1\EntityFrameworkDBModel.AssemblyInfoInputs.cache
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntityFrameworkDBModel\obj\Debug\netcoreapp2.1\EntityFrameworkDBModel.AssemblyInfo.cs
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntityFrameworkDBModel\obj\Debug\netcoreapp2.1\EntityFrameworkDBModel.dll
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntityFrameworkDBModel\obj\Debug\netcoreapp2.1\EntityFrameworkDBModel.pdb

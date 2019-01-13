@@ -1,0 +1,16 @@
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\bin\Debug\netcoreapp2.1\DAL.deps.json
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\bin\Debug\netcoreapp2.1\DAL.dll
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\bin\Debug\netcoreapp2.1\DAL.pdb
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\obj\Debug\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\obj\Debug\netcoreapp2.1\DAL.dll
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\bin\Debug\netcoreapp2.1\EntitiesModelsMyOwnAmazon.dll
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\bin\Debug\netcoreapp2.1\EntityFrameworkDBModel.dll
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\bin\Debug\netcoreapp2.1\EntitiesModelsMyOwnAmazon.pdb
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\bin\Debug\netcoreapp2.1\EntityFrameworkDBModel.pdb
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CopyComplete
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\bin\Debug\netcoreapp2.1\HerramientasMyOwnAmazon.dll
+C:\Users\Marco_2\source\repos\MyOwnAmazon\DAL\bin\Debug\netcoreapp2.1\HerramientasMyOwnAmazon.pdb

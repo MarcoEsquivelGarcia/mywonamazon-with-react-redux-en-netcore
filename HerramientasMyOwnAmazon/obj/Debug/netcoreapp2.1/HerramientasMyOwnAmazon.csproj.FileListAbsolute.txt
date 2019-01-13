@@ -1,0 +1,9 @@
+C:\Users\Marco_2\source\repos\MyOwnAmazon\HerramientasMyOwnAmazon\bin\Debug\netcoreapp2.1\HerramientasMyOwnAmazon.deps.json
+C:\Users\Marco_2\source\repos\MyOwnAmazon\HerramientasMyOwnAmazon\bin\Debug\netcoreapp2.1\HerramientasMyOwnAmazon.dll
+C:\Users\Marco_2\source\repos\MyOwnAmazon\HerramientasMyOwnAmazon\bin\Debug\netcoreapp2.1\HerramientasMyOwnAmazon.pdb
+C:\Users\Marco_2\source\repos\MyOwnAmazon\HerramientasMyOwnAmazon\obj\Debug\netcoreapp2.1\HerramientasMyOwnAmazon.csprojAssemblyReference.cache
+C:\Users\Marco_2\source\repos\MyOwnAmazon\HerramientasMyOwnAmazon\obj\Debug\netcoreapp2.1\HerramientasMyOwnAmazon.csproj.CoreCompileInputs.cache
+C:\Users\Marco_2\source\repos\MyOwnAmazon\HerramientasMyOwnAmazon\obj\Debug\netcoreapp2.1\HerramientasMyOwnAmazon.AssemblyInfoInputs.cache
+C:\Users\Marco_2\source\repos\MyOwnAmazon\HerramientasMyOwnAmazon\obj\Debug\netcoreapp2.1\HerramientasMyOwnAmazon.AssemblyInfo.cs
+C:\Users\Marco_2\source\repos\MyOwnAmazon\HerramientasMyOwnAmazon\obj\Debug\netcoreapp2.1\HerramientasMyOwnAmazon.dll
+C:\Users\Marco_2\source\repos\MyOwnAmazon\HerramientasMyOwnAmazon\obj\Debug\netcoreapp2.1\HerramientasMyOwnAmazon.pdb

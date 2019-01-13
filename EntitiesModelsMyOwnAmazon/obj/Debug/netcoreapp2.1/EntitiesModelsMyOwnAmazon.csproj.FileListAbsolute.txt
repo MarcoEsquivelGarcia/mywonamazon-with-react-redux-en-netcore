@@ -1,0 +1,9 @@
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntitiesModelsMyOwnAmazon\bin\Debug\netcoreapp2.1\EntitiesModelsMyOwnAmazon.deps.json
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntitiesModelsMyOwnAmazon\bin\Debug\netcoreapp2.1\EntitiesModelsMyOwnAmazon.dll
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntitiesModelsMyOwnAmazon\bin\Debug\netcoreapp2.1\EntitiesModelsMyOwnAmazon.pdb
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntitiesModelsMyOwnAmazon\obj\Debug\netcoreapp2.1\EntitiesModelsMyOwnAmazon.csproj.CoreCompileInputs.cache
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntitiesModelsMyOwnAmazon\obj\Debug\netcoreapp2.1\EntitiesModelsMyOwnAmazon.AssemblyInfoInputs.cache
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntitiesModelsMyOwnAmazon\obj\Debug\netcoreapp2.1\EntitiesModelsMyOwnAmazon.AssemblyInfo.cs
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntitiesModelsMyOwnAmazon\obj\Debug\netcoreapp2.1\EntitiesModelsMyOwnAmazon.dll
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntitiesModelsMyOwnAmazon\obj\Debug\netcoreapp2.1\EntitiesModelsMyOwnAmazon.pdb
+C:\Users\Marco_2\source\repos\MyOwnAmazon\EntitiesModelsMyOwnAmazon\obj\Debug\netcoreapp2.1\EntitiesModelsMyOwnAmazon.csprojAssemblyReference.cache
